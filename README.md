@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Amin 👋
+Étudiant en microservices et Spring Boot.
 
-<!--
-**aminmallek123/aminmallek123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Connect with me
+<img src="https://img.shields.io/badge/Instagram-@aminmallek123-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram">
 
-Here are some ideas to get you started:
+<img src="[https://img.shields.io/badge/LinkedIn-Amin Mallek-0A66C2](https://www.linkedin.com/in/amin-mallek-a45aaa285/)?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
+
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&amp;logo=springboot&amp;logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git">
+
+Extra Design
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminmallek123&amp;layout=compact&amp;theme=tokyonight" alt="Top Langs">
+<img src="https://github-readme-stats.vercel.app/api?username=aminmallek123&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats">
