@@ -23,4 +23,3 @@ LinkedIn: https://www.linkedin.com/in/amin-mallek-a45aaa285/
 Instagram: https://www.instagram.com/mallekamin30/
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aminmallek123&style=for-the-badge&color=0E7C86" alt="Profile views" /> </p>
 
-GPT-5.3-Codex • 1x
